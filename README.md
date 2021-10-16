@@ -26,6 +26,8 @@ Windsward serves as a more _rustic_ approach to a drawing application and incorp
 
 Windswards core theme in terms of color and layout is based on autumn, and I conceptually thought of windmills in fall which stuck with me thoughtout the entire process:- from pre planning to the first initialisation.
 
+Thank you for visiting!
+
 <br>
 
 
