@@ -19,7 +19,6 @@
 
  <br>
 
-Hello there,
 
 "Windsward" is my final project submission for my Introduction to Programming II module, as part of my BSc Computer Science degree.
 
@@ -27,9 +26,8 @@ Windsward serves as a more _rustic_ approach to a drawing application and incorp
 
 Windswards core theme in terms of color and layout is based on autumn, and I conceptually thought of windmills in fall which stuck with me thoughtout the entire process:- from pre planning to the first initialisation.
 
-I sincerely thank you for your interest in me! 
 <br>
-Arman
+
 
 ## Getting Started
 
